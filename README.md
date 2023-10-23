@@ -2,10 +2,10 @@
 
 <img src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/37c2ecd3-903b-4de6-84f8-5584d37ed689' width='40%' >
 
-<img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' >About Me</span>  <img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+<img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' >My Activity</span>  <img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 
 
-
+<img src='https://github-readme-stats.vercel.app/api?username=afsanehaa&show_icons=true&theme=tokyonight' width='45%'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=afsanehaa&layout=donut&https://github.com/afsanehaa/github-readme-stats' width='50%' height='190'>
 
 <!--
 **Afsanehaa/Afsanehaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
