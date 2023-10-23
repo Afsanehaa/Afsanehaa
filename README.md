@@ -15,7 +15,7 @@
 <img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' >__GitHub Stats__</span>  <img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 
 
-<img src='https://github-readme-stats.vercel.app/api?username=afsanehaa&show_icons=true&theme=tokyonight' width='45%'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=afsanehaa&layout=donut&https://github.com/afsanehaa/github-readme-stats&theme=tokyonight' width='54%' height='190'>
+<img src='https://github-readme-stats.vercel.app/api?username=afsanehaa&show_icons=true&theme=tokyonight' width='45%' height='190'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=afsanehaa&layout=donut&https://github.com/afsanehaa/github-readme-stats&theme=tokyonight' width='54%' height='190'>
 
 
 <!--
