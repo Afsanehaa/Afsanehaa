@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif
+![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/Afsanehaa/Afsanehaa/assets/115100233/010def28-9aca-4177-ac92-e6707e71a3c2)
+
 <!--
 **Afsanehaa/Afsanehaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
