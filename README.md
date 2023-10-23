@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0AF7AD&random=false&width=435&lines=Hello%2C+I%E2%80%99m+Afsaneh+Abdi;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+<img src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/85b0a901-733c-493b-9f98-14def92de837' width='80'>  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0AF7AD&random=false&width=435&lines=Hello%2C+I%E2%80%99m+Afsaneh+Abdi;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
+
+
+
 <!--
 **Afsanehaa/Afsanehaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
