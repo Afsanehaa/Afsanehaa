@@ -1,8 +1,8 @@
 <img src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/85b0a901-733c-493b-9f98-14def92de837' width='80'> <svg > [![Typing SVG ](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0AF7AD&random=false&width=435&lines=Hello%2C+I%E2%80%99m+Afsaneh+Abdi;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg) </svg> 
-<img src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/37c2ecd3-903b-4de6-84f8-5584d37ed689' margin='150px 150px' >
 
+<img src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/37c2ecd3-903b-4de6-84f8-5584d37ed689' width='40%' >
 
-<img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'> <span font-size='50px' width='20%' >About Me</span> <img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+<img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' >About Me</span>  <img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 
 
 
