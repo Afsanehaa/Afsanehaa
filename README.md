@@ -1,6 +1,4 @@
-### Hi there 👋
-![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/Afsanehaa/Afsanehaa/assets/115100233/010def28-9aca-4177-ac92-e6707e71a3c2)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0AF7AD&random=false&width=435&lines=Hello%2C+I%E2%80%99m+Afsaneh+Abdi;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 <!--
 **Afsanehaa/Afsanehaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
