@@ -7,26 +7,7 @@
 
   <br><br>
 
-<img  width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Contact Me__ </span>  <img width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 
-<br><br>
-
-<p align='center'>
-
-<a href='https://www.linkedin.com/in/afsaneh-abdi-dizaji/'> 
-
-<img src='https://img.shields.io/badge/%20-Linkedin-blue?logo=linkedin'>
-  
-</a>
-
-
-<a href='https://www.linkedin.com/in/afsaneh-abdi-dizaji/'> 
-
-<img src='https://img.shields.io/badge/%20Instagram-pink?logo=instagram'>
-  
-</a>
-
-</p>
  
 <br><br>
 
@@ -56,4 +37,27 @@
 
 <img src='https://visitcount.itsvg.in/api?id=Afsanehaa&label=Profile%20Views&color=1&icon=5&prett'>
 
+  <br><br>
 
+<img  width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Contact Me__ </span>  <img width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+
+<br><br>
+
+<p align='center'>
+
+<a href='https://www.linkedin.com/in/afsaneh-abdi-dizaji/'> 
+
+<img src='https://img.shields.io/badge/%20-Linkedin-blue?logo=linkedin'>
+  
+</a>
+
+
+<a href='https://www.linkedin.com/in/afsaneh-abdi-dizaji/'> 
+
+<img src='https://img.shields.io/badge/%20Instagram-pink?logo=instagram'>
+  
+</a>
+
+</p>
+ 
+<br><br>
