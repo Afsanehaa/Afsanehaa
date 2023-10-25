@@ -7,8 +7,11 @@
 <p align="center"> I am a new software engineering student 
   I've recently started learning JavaScript and the React framework.</p>
 
+<div align="center">
+  
+<img  src='https://visitcount.itsvg.in/api?id=Afsanehaa&label=Profile%20Views&color=3&icon=5&prett'>
 
-
+</div>
  
 <br><br>
 
@@ -36,7 +39,6 @@
 
 </div>
 
-<img src='https://visitcount.itsvg.in/api?id=Afsanehaa&label=Profile%20Views&color=1&icon=5&prett'>
 
   <br><br>
 
